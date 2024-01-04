@@ -9,10 +9,10 @@ Chat Messenger App은 인스타그램의 Direct Messenger를 참조하여 팔로
 - HTTP + URLSession
 
 ### ChatApp Notion 
-[여기](https://www.notion.so/Messenger-App-a0bef1454e304a0a80e49c71c2c1b9e7?pvs=4)를 클릭하시면 ChatApp Notion 으로 이동할 수 있습니다. 
+- [여기](https://www.notion.so/Messenger-App-a0bef1454e304a0a80e49c71c2c1b9e7?pvs=4)를 클릭하시면 ChatApp Notion 으로 이동할 수 있습니다. 
 
 ### 프로젝트 시연 영상
-[여기](https://youtu.be/cG7c6JwBkWA)를 클릭하시면 ChatApp 시연 영상을 보실수 있습니다.
+- [여기](https://youtu.be/cG7c6JwBkWA)를 클릭하시면 ChatApp 시연 영상을 보실수 있습니다.
 
 ### ChatApp은 이런 기능이 있습니다
 - 일반 메신저처럼 친구와 메세지를 주고 받을수있는 기능이 있습니다.
